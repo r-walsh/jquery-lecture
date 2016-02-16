@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+button {
+	height: 200px;
+	width: 200px;
+	display: block;
+	background-color: blue;
+	margin: 20% auto;
+	font-size: 2em;
+	color: white;
+}
+
+#second-button {
+	background-color: red;
+}
