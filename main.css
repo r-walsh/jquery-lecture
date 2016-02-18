@@ -16,3 +16,10 @@ button {
 #second-button {
 	background-color: red;
 }
+
+#tester {
+	height: 200px;
+	width: 200px;
+	background-color: black;
+	margin: 0 auto;
+}
